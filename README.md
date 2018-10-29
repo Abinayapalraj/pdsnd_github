@@ -41,5 +41,5 @@ washington.csv
 
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+Interst to know about the bikeshare detailed statistics inspired to create this script.
 
